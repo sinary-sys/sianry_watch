@@ -1,0 +1,48 @@
+{
+    "idf.portWin": "COM12",
+
+    //"editor.fontFamily": "Fira Code",//设置的字体类型
+    "editor.fontLigatures": true,//启用字体连字
+    "editor.fontSize": 16,//设置字体大小
+    "editor.fontWeight": "normal",//设置字体粗细，可选normal,bold,"100"~"900"等
+
+    "search.exclude": {
+        //"build": true,
+
+    },
+
+    "files.exclude": {
+        //"build": true,
+    },
+    "files.associations": {
+        "spi_master.h": "c",
+        "gpio.h": "c",
+        "esp_err.h": "c",
+        "freertos.h": "c",
+        "queue.h": "c",
+        "app_screen.h": "c",
+        "iot_lvgl.h": "c",
+        "sdkconfig.h": "c",
+        "lvgl.h": "c",
+        "lv_conf.h": "c",
+        "task.h": "c",
+        "app_sensor.h": "c",
+        "stdlib.h": "c",
+        "stddef.h": "c",
+        "reent.h": "c",
+        "string.h": "c",
+        "my_system.h": "c",
+        "bsp_board.h": "c",
+        "main.h": "c",
+        "sdcard.h": "c",
+        "sdmmc_cmd.h": "c",
+        "sd_card.h": "c",
+        "esp_vfs_fat.h": "c",
+        "lvgl_project.h": "c",
+        "spiffs.h": "c",
+        "unistd.h": "c",
+        "md5.h": "c",
+        "esp_spiffs.h": "c",
+        "lvgl_port.h": "c"
+    }
+}
